@@ -44,9 +44,6 @@ The outputs from our paper are included in the ```code/outputs``` folder. We hav
 ## Planning results
 Our preliminary results on planning are included in the ```code/planning``` folder. The prompts used for the REACT setup are in the ```code/REACT_prompts``` folder. Run the ```code/REACT.py``` file to get results of REACT on the MATH dataset.
 
-## Overview of REACT for example from MATH dataset
-<img width="743" alt="image" src="images/REACT.png">
-
 ## Citation 
 
 ```
