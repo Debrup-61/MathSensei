@@ -1,8 +1,9 @@
-# MathSensei: A tool-augmented LLM for Math Reasoning
+# [MathSensei: A tool-augmented LLM for Math Reasoning](https://arxiv.org/abs/2402.17231)
 
 ## Overview of End-to-End example from MATH dataset
 <img width="743" alt="image" src="images/Math_data_example.jpg">
 
+### Please refer to the [official code repo](https://github.com/rakutentech/MathSensei) for codes and data used in ["MathSensei: A Tool-Augmented Large Language Model for Math Reasoning"](https://arxiv.org/abs/2402.17231)
 
 ## Citation 
 
